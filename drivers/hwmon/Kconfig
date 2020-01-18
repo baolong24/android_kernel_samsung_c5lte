@@ -598,7 +598,7 @@ config SENSORS_LINEAGE
 	  CP2000DC, CP2725, and others.
 
 	  This driver can also be built as a module.  If so, the module
-	  will be called lineage-pem.
+	  will be called mokee-pem.
 
 config SENSORS_LM63
 	tristate "National Semiconductor LM63 and compatibles"
